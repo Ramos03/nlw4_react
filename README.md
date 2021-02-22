@@ -2,7 +2,7 @@
 
 ### 💻 Sobre o projeto
 
-Reminder Move IT é uma aplicação para que o dev ou gamer ou profissional que utiliza muito o computador para que se exercita-se durante o dia, evitando problemas de saúde a longe prazo.
+Reminder Move IT é uma aplicação desenvolvida na semana NLW 4 da @rocktseat para que o dev ou gamer ou profissional que utiliza muito o computador para que se exercita-se durante o dia, evitando problemas de saúde a longe prazo.
 
 ### Pré-requisitos
 
