@@ -1,4 +1,4 @@
-<img align="center" src="./.github/logo.png" />
+<img align="center" src="./.github/logo.JPG" />
 
 # Reminder Move IT
 
@@ -16,7 +16,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Ramos03/nlw4_react
+$ git clone https://github.com/Ramos03/remindermoveit
 
 # Instale as dependências
 $ npm i
