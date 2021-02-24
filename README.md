@@ -19,10 +19,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/Ramos03/remindermoveit
 
 # Instale as dependências
-$ npm i
+$ yarn
 
 # Execute a aplicação
-$ npm start
+$ yarn dev
 
 # A aplicação inciará na porta:3000 - acesse http://localhost:3000 
 ```
