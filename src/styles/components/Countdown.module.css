@@ -76,4 +76,27 @@
     background: var(--white);
     color: var(--text);
     cursor: not-allowed;
+    border-radius: 5px;
+    opacity: 1;
 }
+
+.countdownButton:disabled img{
+    margin-left: 0.5rem;
+}
+
+.countdownButton:disabled div{
+    display: flex;
+    position: absolute;
+    width: 389px;
+    height: 4px;
+    margin-left: 2.5rem;
+    margin-top: 4.5rem;
+    
+    /* Green */
+    background: #4CD62B;
+    border-radius: 0px 0px 5px 5px;
+}
+
+
+
+
