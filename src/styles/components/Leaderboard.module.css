@@ -1,0 +1,81 @@
+.container{
+    position: relative;
+    width: 90rem;
+    height: 51.25rem;
+    background: #F2F3F5;
+}
+
+.container header{
+    position: absolute;
+    width: 13.938rem;
+    height: 2.875rem;
+    left: 10.5rem;
+    top: 2rem;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.25rem;
+    line-height: 2.875rem;
+    color: #2E384D;
+}
+
+.position{
+    position: absolute;
+    width: 4.063px;
+    height: 1.063rem;
+    left: 10.5rem;
+    top: 7.875rem;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.875rem;
+    line-height: 1.063rem;
+    text-transform: uppercase;
+    color: #666666;
+    opacity: 0.5;
+}
+.user{
+    position: absolute;
+    width: 4.063rem;
+    height: 1.063rem;
+    left: 16.5rem;
+    top: 7.875rem;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.875rem;
+    line-height: 1.063rem;
+    text-transform: uppercase;
+    color: #666666;
+    opacity: 0.5;
+}
+.challenge{
+    position: absolute;
+    width: 4.438rem;
+    height: 1.063rem;
+    left: 50rem;
+    top: 7.875rem;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.875rem;
+    line-height: 1.063rem;
+    text-transform: uppercase;
+    color: #666666;
+    opacity: 0.5;
+}
+.experience{
+    position: absolute;
+    width: 5.875rem;
+    height: 1.063rem;
+    left: 56rem;
+    top: 7.875rem;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.875rem;
+    line-height: 1.063rem;
+    text-transform: uppercase;
+    color: #666666;
+    opacity: 0.5;
+}

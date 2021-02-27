@@ -4,6 +4,7 @@ import { CompletedChallenges } from '../components/CompletedChallenges';
 import { Countdown } from '../components/Countdown';
 import { ChallengeBox } from '../components/ChallengeBox';
 import { Sidebar } from '../components/Sidebar';
+import { Leaderboard } from '../components/Leaderboard';
 import styles from '../styles/pages/Home.module.css';
 import Head from 'next/head';
 import { CountdownProvider } from '../contexts/CountdownContext';
@@ -27,19 +28,19 @@ export default function Home(props : HomeProps) {
         <Head>
           <title>Reminder | Move.IT</title>
         </Head>
-        <ExperienceBar />
+        <ExperienceBar />*
+        <Sidebar />
 
+        {/*<Leaderboard />*/}
         <CountdownProvider>
           <section>
             <div>
-              <Sidebar />
               <Profile />
               <CompletedChallenges />
               <Countdown />
             </div>
             <div>
               <ChallengeBox />
-
             </div>
           </section>
         </CountdownProvider>
